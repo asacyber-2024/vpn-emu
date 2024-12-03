@@ -1,0 +1,13 @@
+#Adlist untuk VPN dan Emulator
+
+0.0.0.0 prmsrvs.com
+0.0.0.0 browsec.com
+0.0.0.0 frmdom.com
+0.0.0.0 turbovpn.co
+0.0.0.0 cdn77.org
+0.0.0.0 akamai.net
+0.0.0.0 bluestacks.com
+0.0.0.0 bluestacks.com.a.lahuashanbx.com
+0.0.0.0 postls.com
+0.0.0.0 tiktok.com
+0.0.0.0 chatgpt.com
