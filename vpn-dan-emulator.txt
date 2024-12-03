@@ -9,5 +9,3 @@
 0.0.0.0 bluestacks.com
 0.0.0.0 bluestacks.com.a.lahuashanbx.com
 0.0.0.0 postls.com
-0.0.0.0 tiktok.com
-0.0.0.0 chatgpt.com
